@@ -53,7 +53,9 @@
 ### NOTEWORTHY
  Trained model on image-size(384) and when validated on different imagesizes(384,456,512) and found out suprising result,the model which was actually trained on 384 gave better val auc on 456 and 512 imagesize.Then  ensembled them which gave better results.
 - Trained on 384 validated on different sizes
-![AucVsSizes]("https://github.com/MiHarsh/Siim-ISIC-Melanoma-Skin-Cancer-Detection/blob/master/visuals/AucsVsSizes.png?raw=true") 
+
+<code><a><img src="https://github.com/MiHarsh/Siim-ISIC-Melanoma-Skin-Cancer-Detection/blob/master/visuals/AucsVsSizes.png"> Auc Vs Sizes</a></code>
 
 ## OUR MODEL FOR BLENDING CNN AND META DATA
-![Proposed Model]("https://github.com/MiHarsh/Siim-ISIC-Melanoma-Skin-Cancer-Detection/blob/master/visuals/proposed_model.png?raw=true")
+
+<code><a><img src="https://github.com/MiHarsh/Siim-ISIC-Melanoma-Skin-Cancer-Detection/blob/master/visuals/proposed_model.png"> Proposed Model</a></code>
